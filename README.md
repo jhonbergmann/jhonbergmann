@@ -1,4 +1,4 @@
-## <div align="center">Hello Word! 👋.</div>
+## <div align="center">Hello Word! 👋</div>
 <img align="right" src="https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-do-criador-de-site_114360-3315.jpg" width="250"/>
 
 - 🌱 I’m currently learning JavaScript, NodeJS and React Native
