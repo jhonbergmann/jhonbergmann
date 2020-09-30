@@ -2,8 +2,11 @@
 <img align="right" src="https://image.freepik.com/vetores-gratis/ilustracao-do-conceito-do-criador-de-site_114360-3315.jpg" width="250"/>
 
 - 💜 Mobile
+
 - 🌱 I’m currently learning JavaScript, NodeJS and React Native
-- 💬 Ask me about technology, series and games
+
+- 💬 Ask me about technology, cars, motorcycles, gym, series and games
+
 - 📫 How to reach me: The badges will help you 
 
 [![Instagram Badge](https://img.shields.io/badge/-__jhonbergmann-inactive?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jhonbergmann/)](https://www.instagram.com/_jhonbergmann/)
