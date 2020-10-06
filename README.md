@@ -2,13 +2,20 @@
 
 - 💜 Mobile
 
-- 🌱 I’m currently learning({ 
-    TypeScript, 
-    JavaScript, 
-    Node.JS, 
-    React, 
-    React Native, 
+- 🌱 I’m currently learning({
+    <br>
+    TypeScript,
+    <br>
+    JavaScript,
+    <br>
+    Node.JS,
+    <br>
+    React,
+    <br>
+    React Native,
+    <br>
     and Information Security
+    <br>
  })
 
 - 💬 Ask me about technology, cars, motorcycles, gym, series and games
