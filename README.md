@@ -12,7 +12,7 @@
     <br>
     React,
     <br>
-    React Native,
+    React Native
     <br>
     and Information Security
     <br>
