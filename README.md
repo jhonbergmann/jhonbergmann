@@ -2,7 +2,7 @@
 
 - 💜 Mobile
 
-- 🌱 I’m currently learning{{
+- 🌱 I’m currently learning({
     <br>
     TypeScript,
     <br>
@@ -16,7 +16,7 @@
     <br>
     and Information Security
     <br>
- }}
+ })
 
 - 💬 Ask me about technology, cars, motorcycles, gym, series and games
 
