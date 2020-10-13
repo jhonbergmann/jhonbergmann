@@ -14,9 +14,7 @@
     <br>
     React Native,
     <br>
-    and Information Security
-    <br>
- })
+    and Information Security})
 
 - 💬 Ask me about technology, cars, motorcycles, gym, series and games
 
