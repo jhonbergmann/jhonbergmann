@@ -1,4 +1,4 @@
-## <div align="center">Hello Word! 👋</div>
+## <div align="center">👋 Hello Word!</div>
 
 - 💜 Mobile
 
