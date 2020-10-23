@@ -2,7 +2,7 @@
 
 - 💜 Mobile
 - 🌱 I’m currently learning TypeScript, JavaScript, Node.JS, React, React Native and Information Security
-- 💬 Ask me about technology, cars, motorcycles, gym, series and games
+- 💬 Ask me about technology, cars, motorcycles, gym, series, games and game development using Unity - C#
 - 📫 How to reach me: The badges will help you 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jhonatan--bergmann-blueviolet?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-bergmann/)](https://www.linkedin.com/in/jhonatan-bergmann/)
