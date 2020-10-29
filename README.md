@@ -1,12 +1,16 @@
 ## <div align="center">👋 Hello Word!</div>
 
-- 💜 Mobile
+- 💜 Loving
+Mobile
 
-- 🌱 I’m currently learning TypeScript, JavaScript, Node.JS, React, React Native,Information Security And Development using Unity - C#
+- 🌱 I’m currently learning 
+TypeScript, JavaScript, Node.JS, React, React Native,Information Security And Development games using Unity - C#
 
-- 💬 Ask me about technology, cars, motorcycles, gym, series, and games  
+- 💬 Ask me about 
+technology, cars, motorcycles, gym, series, and games  
 
-- 📫 How to reach me: The badges will help you 
+- 📫 How to reach me: 
+The badges will help you 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jhonatan--bergmann-blueviolet?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-bergmann/)](https://www.linkedin.com/in/jhonatan-bergmann/)
 [![Instagram Badge](https://img.shields.io/badge/-__jhonbergmann-blueviolet?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jhonbergmann/)](https://www.instagram.com/_jhonbergmann/)
