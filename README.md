@@ -2,9 +2,9 @@
 
 - 💜 Mobile
 
-- 🌱 I’m currently learning TypeScript, JavaScript, Node.JS, React, React Native and Information Security
+- 🌱 I’m currently learning TypeScript, JavaScript, Node.JS, React, React Native,Information Security And Development using Unity - C#
 
-- 💬 Ask me about technology, cars, motorcycles, gym, series, games and game development using Unity - C#
+- 💬 Ask me about technology, cars, motorcycles, gym, series, and games  
 
 - 📫 How to reach me: The badges will help you 
 
