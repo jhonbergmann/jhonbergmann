@@ -2,10 +2,13 @@
 
 - 💜 Loving:<br>
 Mobile
+
 - 🌱 I’m currently learning:<br>
 TypeScript, JavaScript, Node.JS, React, React Native,Information Security And Development games using Unity - C#
+
 - 💬 Ask me about:<br>
 technology, cars, motorcycles, gym, series, and games  
+
 - 📫 How to reach me:<br>
 The badges will help you 
 
