@@ -7,7 +7,7 @@ Mobile
 TypeScript, JavaScript, Node.JS, React, React Native,Information Security and Games Development 
 
 - 💬 Ask me about:<br>
-technology, sports, series and games
+Technology, sports, series and games
 
 - 📫 How to reach me:<br>
 The badges will help you 
