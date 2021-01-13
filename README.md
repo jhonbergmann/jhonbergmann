@@ -12,13 +12,16 @@ Technology, sports, series and games
 - 📫 How to reach me:<br>
 The badges will help you [![Linkedin Badge](https://img.shields.io/badge/-jhonatan--bergmann-blueviolet?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-bergmann/)](https://www.linkedin.com/in/jhonatan-bergmann/) [![Instagram Badge](https://img.shields.io/badge/-__jhonbergmann-blueviolet?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jhonbergmann/)](https://www.instagram.com/_jhonbergmann/)
 
-<hr/>
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonatanBergmann&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
 
-<div align="center">
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JhonatanBergmann&hide=stars&theme=highcontrast)
-
-</div>
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanBergmann&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+<br/>
 
 <!--
 **JhonatanBergmann/JhonatanBergmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
