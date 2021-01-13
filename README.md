@@ -19,7 +19,11 @@ The badges will help you
 
 </div>
 
+<div align="center">
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JhonatanBergmann&hide=stars&theme=highcontrast)
+
+</div>
 
 <!--
 **JhonatanBergmann/JhonatanBergmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
