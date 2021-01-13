@@ -15,6 +15,8 @@ The badges will help you
 [![Linkedin Badge](https://img.shields.io/badge/-jhonatan--bergmann-blueviolet?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-bergmann/)](https://www.linkedin.com/in/jhonatan-bergmann/)
 [![Instagram Badge](https://img.shields.io/badge/-__jhonbergmann-blueviolet?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jhonbergmann/)](https://www.instagram.com/_jhonbergmann/)
 
+<hr/>
+
 <div align="center">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JhonatanBergmann&hide=stars&theme=white)
