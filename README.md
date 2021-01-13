@@ -10,14 +10,7 @@ TypeScript, JavaScript, Node.JS, React, React Native,Information Security and Ga
 Technology, sports, series and games
 
 - 📫 How to reach me:<br>
-The badges will help you 
-
-<div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-jhonatan--bergmann-blueviolet?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-bergmann/)](https://www.linkedin.com/in/jhonatan-bergmann/)
-[![Instagram Badge](https://img.shields.io/badge/-__jhonbergmann-blueviolet?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jhonbergmann/)](https://www.instagram.com/_jhonbergmann/)
-
-</div>
+The badges will help you [![Linkedin Badge](https://img.shields.io/badge/-jhonatan--bergmann-blueviolet?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-bergmann/)](https://www.linkedin.com/in/jhonatan-bergmann/) [![Instagram Badge](https://img.shields.io/badge/-__jhonbergmann-blueviolet?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jhonbergmann/)](https://www.instagram.com/_jhonbergmann/)
 
 <hr/>
 
