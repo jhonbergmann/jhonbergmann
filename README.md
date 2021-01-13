@@ -1,7 +1,7 @@
 ## <div align="center">👋 Hello Word!</div>
 
-- 💜 Loving:<br>
-Mobile
+- 💜<br>
+Mobile Development
 
 - 🌱 I’m currently learning:<br>
 TypeScript, JavaScript, Node.JS, React, React Native,Information Security and Games Development 
