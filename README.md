@@ -19,7 +19,7 @@ The badges will help you
 
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JhonatanBergmann&hide=stars&theme=white)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JhonatanBergmann&hide=stars&theme=tokyonight)
 
 </div>
 
