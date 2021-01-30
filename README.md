@@ -15,8 +15,7 @@ The badges will help you:
 <details>
  <summary>⚡ Contact Badges</summary>
   
-  [![Linkedin Badge](https://img.shields.io/badge/-jhonatan--bergmann-blueviolet?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-bergmann/)](https://www.linkedin.com/in/jhonatan-bergmann/) 
-  [![Instagram Badge](https://img.shields.io/badge/-__jhonbergmann-blueviolet?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jhonbergmann/)](https://www.instagram.com/_jhonbergmann/)
+  [![Linkedin Badge](https://img.shields.io/badge/-jhonatan--bergmann-white?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/jhonatan-bergmann/)](https://www.linkedin.com/in/jhonatan-bergmann/) 
   
 </details>
 
