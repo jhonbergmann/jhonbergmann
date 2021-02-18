@@ -4,7 +4,7 @@
 Mobile Development
 
 - 🌱 I’m currently learning:<br>
-TypeScript, JavaScript, Node.JS, React, React Native,Information Security and Games Development 
+TypeScript, JavaScript, Node.JS, React, React Native, Information Security and Games Development 
 
 - 💬 Ask me about:<br>
 Technology, sports, series and games
