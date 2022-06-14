@@ -3,14 +3,14 @@
 web & mobile development s2.
  
 <details>
- <summary>⚫️ Contact Badges</summary>
+ <summary>⚪️ Contact Badges</summary>
   
   [![Linkedin Badge](https://img.shields.io/badge/-jhonatan--bergmann-white?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/jhonatan-bergmann/)](https://www.linkedin.com/in/jhonatan-bergmann/) 
   
 </details>
 
 <details>
-  <summary>🟡 Github Stats</summary>
+  <summary>⚪️ Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=JhonatanBergmann&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </details>
 
