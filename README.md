@@ -1,22 +1,24 @@
 ## <div>Jhonatan Bergmann</div>
 
-web & mobile development s2.
+I'm a Software Engineer.
+
+As a front-end developer, I'm deeply passionate about crafting innovative solutions using JavaScript and TypeScript. Armed with a degree in Systems Analysis and Development and Computer Science, I've honed my skills in programming, system design, and prototyping.
  
 <details>
- <summary>⚪️ Contact Badges</summary>
+ <summary>⇢ Contact badges</summary>
   
   [![Linkedin Badge](https://img.shields.io/badge/-jhonatan--bergmann-white?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/jhonatan-bergmann/)](https://www.linkedin.com/in/jhonatan-bergmann/) 
   
 </details>
 
 <details>
-  <summary>⚪️ Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonatanBergmann&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+  <summary>⇢ Github stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonbergmann&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </details>
 
 <details>
-  <summary>⚪️ Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanBergmann&layout=compact&bg_color=ffffff&text_color=333333">
+  <summary>⇢ Languages used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonbergmann&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 
 <!--
