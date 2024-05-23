@@ -1,8 +1,6 @@
 ## <div>Jhonatan Bergmann</div>
 
-I'm a Software Engineer.
-
-As a front-end developer, I'm deeply passionate about crafting innovative solutions using JavaScript and TypeScript. Armed with a degree in Systems Analysis and Development and Computer Science, I've honed my skills in programming, system design, and prototyping.
+As a front-end developer, I'm deeply passionate about crafting innovative solutions using JavaScript and TypeScript.
  
 <details>
  <summary>Contact badges</summary>
