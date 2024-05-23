@@ -3,19 +3,19 @@
 As a front-end developer, I'm deeply passionate about crafting innovative solutions using JavaScript and TypeScript.
  
 <details>
- <summary>Contact badges</summary>
+ <summary>Contact Badges</summary>
   
   [![Linkedin Badge](https://img.shields.io/badge/-jhonatan--bergmann-white?style=for-the-badge&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/jhonatan-bergmann/)](https://www.linkedin.com/in/jhonatan-bergmann/) 
   
 </details>
 
 <details>
-  <summary>Github stats</summary>
+  <summary>GitHub Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=jhonbergmann&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </details>
 
 <details>
-  <summary>Languages used</summary>
+  <summary>Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonbergmann&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 
