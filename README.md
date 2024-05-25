@@ -1,6 +1,6 @@
 ## <div>Jhonatan Bergmann</div>
 
-As a front-end developer, I'm deeply passionate about crafting innovative solutions using JavaScript and TypeScript.
+...
  
 <details>
  <summary>Contact Badges</summary>
